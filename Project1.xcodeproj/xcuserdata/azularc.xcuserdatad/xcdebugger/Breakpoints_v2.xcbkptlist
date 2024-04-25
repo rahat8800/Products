@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "005B7735-F7BC-450E-92B6-44EA3F911EE7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62F42675-2033-42D7-932C-3A44918485B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1/API_ManagerClass/ApiManagerClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getProducts(handler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62F42675-2033-42D7-932C-3A44918485B2 - 8fa1f0dfa4c91033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Project1.APIManager.getProducts(handler: (Swift.Result&lt;Swift.Array&lt;Project1.Product&gt;, Project1.DataError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azularc/Desktop/Project1/Project1/API_ManagerClass/ApiManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1436">
+               </Location>
+               <Location
+                  uuid = "62F42675-2033-42D7-932C-3A44918485B2 - 8fa1f0dfa4c91033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Project1.APIManager.getProducts(handler: (Swift.Result&lt;Swift.Array&lt;Project1.Product&gt;, Project1.DataError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azularc/Desktop/Project1/Project1/API_ManagerClass/ApiManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "62F42675-2033-42D7-932C-3A44918485B2 - 8fa1f0dfa4c91033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Project1.APIManager.getProducts(handler: (Swift.Result&lt;Swift.Array&lt;Project1.Product&gt;, Project1.DataError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azularc/Desktop/Project1/Project1/API_ManagerClass/ApiManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DE529F8-9ABE-4551-9648-F9C18565B61C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1/API_ManagerClass/ApiManagerClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getProducts(handler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DE529F8-9ABE-4551-9648-F9C18565B61C - 8fa1f0dfa4c91012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Project1.APIManager.getProducts(handler: (Swift.Result&lt;Swift.Array&lt;Project1.Product&gt;, Project1.DataError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azularc/Desktop/Project1/Project1/API_ManagerClass/ApiManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+               <Location
+                  uuid = "9DE529F8-9ABE-4551-9648-F9C18565B61C - 8fa1f0dfa4c91012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Project1.APIManager.getProducts(handler: (Swift.Result&lt;Swift.Array&lt;Project1.Product&gt;, Project1.DataError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azularc/Desktop/Project1/Project1/API_ManagerClass/ApiManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D723DEA-E2B1-42B4-B0E3-E11384D20675"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
